@@ -1,1 +1,3 @@
-# Atividades disciplina EA872
+# Atividades disciplina EA872  - Laboratório de Programação de Software Básico
+
+
